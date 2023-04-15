@@ -1,7 +1,7 @@
 # Quiz-application
 Online quiz application project built with java including technologies such as EJB modules, Servlets, and Class Libraries.
 
-Components present in the application includes:
+Components present in this application includes:
   - Time Services for Task Scheduling
   - Transaction Management
   - Exception Handling
